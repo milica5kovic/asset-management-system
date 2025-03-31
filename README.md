@@ -13,10 +13,10 @@ This application enables: <br>
 ✏️ Updating and managing asset records <br>
 
 🛠 Technologies Used <br>
-C# (.NET 6+) – Backend development <br>
+C# (.NET 9) – Backend development <br>
 
 ADO.NET – Database connectivity <br>
 
-SQL (MySQL or SQL Server) – Data storage <br>
+SQL Server  – Data storage <br>
 
-JetBrains Rider / Visual Studio – Development environment <br>
+JetBrains Rider – Development environment <br>
